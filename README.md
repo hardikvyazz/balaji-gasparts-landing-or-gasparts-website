@@ -109,11 +109,13 @@ test_web/
 2. Go to repository Settings → Pages
 3. Select "Deploy from a branch" under Source
 4. Choose "main" branch and "/ (root)" folder
-5. Your site will be available at `https://yourusername.github.io/your-repo-name`
+5. Your site will be available at `https://hardikvyazz.github.io/balaji-gasparts-landing-or-gasparts-website`
 
 ### Live Demo
 Once deployed on GitHub Pages, the landing page will be accessible via:
-`https://yourusername.github.io/your-repo-name`
+`https://hardikvyazz.github.io/balaji-gasparts-landing-or-gasparts-website`
+
+**Repository:** [hardikvyazz/balaji-gasparts-landing-or-gasparts-website](https://github.com/hardikvyazz/balaji-gasparts-landing-or-gasparts-website)
 
 ## Customization
 
